@@ -8,7 +8,7 @@
   
   ---
   
-  **Asignatura:** [Nombre de la Asignatura - ej. Fundamentos de Programación]  
+  **Asignatura:** [Teoría de programación]  
   **Ciclo:** [Tu Ciclo]  
   **Período Académico:** [Período Académico - ej. Abril - Agosto 2026]  
   **Docente:** [Nombre del Docente]  
