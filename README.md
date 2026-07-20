@@ -8,11 +8,12 @@
   
   ---
   
-  **Asignatura:** [Teoría de programación]  
-  **Ciclo:** [Tu Ciclo]  
-  **Período Académico:** [Período Académico - ej. Abril - Agosto 2026]  
-  **Docente:** [Nombre del Docente]  
-  **Estudiante:** [Tu Nombre Completo]  
+  **Asignatura:** Teoría de programación  
+  **Ciclo:** 1er Ciclo  
+  **Período Académico:** Abril - Agosto 2026  
+  **Docente:** Lisset Lopez 
+  **Estudiante:** Sdier Emanuel Roblez Roblez.
+  
   
   ---
 </div>
