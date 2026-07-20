@@ -1,6 +1,7 @@
 <div align="center">
   <!-- Puedes reemplazar este enlace con el logo oficial de la UNL -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Logo_UNL.png" alt="Logo UNL" width="150"/>
+  <img src="<img width="404" height="150" alt="logo-unl-HC-01-e1651758359420" src="https://github.com/user-attachments/assets/6b06a005-5a05-4c64-bc4f-1dd5290c1e07" />
+"/>
   
   # UNIVERSIDAD NACIONAL DE LOJA
   ### FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
